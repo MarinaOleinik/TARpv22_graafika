@@ -1,5 +1,4 @@
 
-from ctypes import c_bool, c_buffer
 from math import sqrt
 from tkinter import *
 import numpy as np

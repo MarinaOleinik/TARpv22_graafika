@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3f45e753-8e59-4e98-a06e-c4352e6dd751</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Ruutvõrrand.py</StartupFile>
+    <StartupFile>TARpv22_graafika.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,11 @@
   <ItemGroup>
     <Compile Include="Ruutvõrrand.py" />
     <Compile Include="TARpv22_graafika.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Poke-Ball-256.png" />
+    <Content Include="Poke-Ball.ico" />
+    <Content Include="Premier-Ball-256.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
