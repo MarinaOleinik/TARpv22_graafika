@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3f45e753-8e59-4e98-a06e-c4352e6dd751</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>TARpv22_graafika.py</StartupFile>
+    <StartupFile>Menu_Tabs_Page.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,8 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Ruutvõrrand.py" />
+    <Compile Include="Menu_Tabs_Page.py" />
+    <Compile Include="Ruudvõrrand.py" />
     <Compile Include="TARpv22_graafika.py" />
   </ItemGroup>
   <ItemGroup>
